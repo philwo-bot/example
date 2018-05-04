@@ -14,7 +14,7 @@ lorem vitae massa tempor bibendum. Nam sagittis risus non ipsum varius,
 pellentesque ornare neque tempus. Nam auctor turpis fringilla augue semper
 placerat.
 
-I'm adding some other text.
+I'm readding some other text.
 
 * First. I feel like I'm on the right track here.
 
@@ -22,7 +22,7 @@ I'm adding some other text.
 
 * Third. One more sentence and I could sell this as a book.
 
-Second round with more stuff!!
+So-Second round with more stuff!!
 
 Yeah.
 
