@@ -2,7 +2,7 @@
 
 Hello from philwo-bot.
 
-I'm adding some other text.
+I'm readding some other text.
 
 Second round with more stuff!!
 
