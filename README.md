@@ -1,5 +1,9 @@
 # [Bazel](https://bazel.build)
 
+Hello from philwo-bot.
+
+I'm adding some other text.
+
 *{Fast, Correct} - Choose two*
 
 Build and test software of any size, quickly and reliably.
@@ -22,6 +26,8 @@ Build and test software of any size, quickly and reliably.
   rules written by the growing Bazel community.
 
 ## Getting Started
+
+Some other great text.
 
   * [Install Bazel](https://docs.bazel.build/install.html)
   * [Get started with Bazel](https://docs.bazel.build/getting-started.html)
