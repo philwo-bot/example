@@ -29,7 +29,7 @@ Yeah.
 Nunc eget consectetur risus. Donec ut volutpat augue. Nulla facilisi. Duis
 convallis diam sit amet urna consequat, vitae iaculis dui laoreet. Orci varius
 natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut
-velit urna, tristique efficitur suscipit non, euismod vel mi. Fusce sed gravida
+velit urna, tristikue efficitur suscipit non, euismod vel mi. Fusce sed gravida
 erat. Etiam a lorem nec lectus rutrum scelerisque quis a est. Sed ornare lorem
 magna, vel commodo eros sollicitudin in. Integer lacinia eros ligula, et rutrum
 sapien consectetur eget.
