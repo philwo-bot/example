@@ -4,6 +4,10 @@ Hello from philwo-bot.
 
 I'm adding some other text.
 
+Second round with more stuff!!
+
+Yeah.
+
 *{Fast, Correct} - Choose two*
 
 Build and test software of any size, quickly and reliably.
@@ -12,6 +16,8 @@ Build and test software of any size, quickly and reliably.
   Bazel only rebuilds what is necessary.
   With advanced local and distributed caching, optimized dependency analysis and
   parallel execution, you get fast and incremental builds.
+
+* **FORCEEEEEEE**
 
 * **One tool, multiple languages**: Build and test Java, C++, Android, iOS, Go,
   and a wide variety of other language platforms. Bazel runs on Windows, macOS,
@@ -28,6 +34,8 @@ Build and test software of any size, quickly and reliably.
 ## Getting Started
 
 Some other great text.
+
+Adding MOAR TEXT.
 
   * [Install Bazel](https://docs.bazel.build/install.html)
   * [Get started with Bazel](https://docs.bazel.build/getting-started.html)
