@@ -8,6 +8,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed aliquet
 
 I'm adding some other text.
 
+* First
+
+* Second
+
+* Third
+
 Second round with more stuff!!
 
 Yeah.
